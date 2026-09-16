@@ -53,7 +53,7 @@ proxies:
 编辑 `velocity.toml`：
 
 ```toml
-proxy-protocol = true
+haproxy-protocol = true
 ```
 
 ## 配置
